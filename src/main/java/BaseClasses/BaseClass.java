@@ -26,6 +26,7 @@ public class BaseClass {
 		}
 	
 		driver.get("https://groww.in/");
+		
 		driver.manage().window().maximize();
 		return driver;
 		

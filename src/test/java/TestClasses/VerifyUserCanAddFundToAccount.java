@@ -19,6 +19,7 @@ public class VerifyUserCanAddFundToAccount {
 	
 	WebDriver driver;
 	Login_Page lp;
+	
 	Home_Page hp;
 	
 	@Parameters("browser")
